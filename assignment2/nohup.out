@@ -1,0 +1,516 @@
+[W 03:38:13.072 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 03:38:13.073 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 03:38:13.082 NotebookApp] Serving notebooks from local directory: /home/booneng/assignment2
+[I 03:38:13.082 NotebookApp] 0 active kernels 
+[I 03:38:13.082 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:7000/
+[I 03:38:13.082 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 03:38:17.434 NotebookApp] 302 GET / (103.27.162.248) 0.81ms
+[I 03:38:57.266 NotebookApp] Kernel started: 4bd90f55-4f03-4b22-874b-f9411d19a036
+[I 03:40:59.522 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 03:42:58.651 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 03:44:58.563 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 03:45:07.131 NotebookApp] Saving file at /cs231n/layer_utils.py
+[I 03:45:33.969 NotebookApp] Saving file at /cs231n/layer_utils.py
+[I 03:45:41.761 NotebookApp] Saving file at /cs231n/layer_utils.py
+[I 03:46:58.781 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 03:47:22.716 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 03:47:39.408 NotebookApp] Saving file at /cs231n/layer_utils.py
+[I 03:48:21.994 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 03:58:29.363 NotebookApp] WebSocket ping timeout after 112656 ms.
+[I 04:28:25.674 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 04:28:47.609 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 04:29:20.687 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:30:17.719 NotebookApp] Kernel interrupted: 4bd90f55-4f03-4b22-874b-f9411d19a036
+[I 04:30:21.253 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 4bd90f55-4f03-4b22-874b-f9411d19a036 restarted
+[I 04:31:19.254 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:33:19.760 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:34:18.081 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 04:35:19.772 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:37:20.254 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:39:19.212 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:39:54.667 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:40:05.711 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:41:19.565 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:42:32.400 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 04:43:19.264 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:43:48.437 NotebookApp] Saving file at /cs231n/layers.py
+[I 04:43:58.392 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 04:45:08.559 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 04:45:19.926 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:45:31.700 NotebookApp] Saving file at /cs231n/layers.py
+[I 04:46:10.587 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:47:19.846 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:47:20.679 NotebookApp] Saving file at /cs231n/solver.py
+[I 04:47:47.801 NotebookApp] Saving file at /cs231n/solver.py
+[I 04:48:12.489 NotebookApp] Saving file at /cs231n/solver.py
+[I 04:48:59.251 NotebookApp] Saving file at /cs231n/solver.py
+[I 04:49:19.844 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:50:07.126 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 04:51:19.817 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:51:35.286 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:53:19.797 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:54:08.949 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 04:54:12.863 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 04:54:15.556 NotebookApp] Notebook FullyConnectedNets.ipynb is not trusted
+[I 04:56:24.739 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 04:56:24.741 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 04:58:24.699 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 04:58:24.700 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:00:20.939 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:00:20.939 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:02:21.024 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:02:21.024 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:06:25.493 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:08:44.064 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:08:55.018 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:08:57.894 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:10:32.538 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:11:00.530 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:11:28.771 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:12:17.545 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:12:20.324 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:12:20.325 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:14:20.307 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:14:20.307 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:15:12.938 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:15:46.339 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:16:20.336 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:16:20.336 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:16:33.409 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:18:13.834 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:18:21.366 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:18:21.367 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:22:18.521 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:23:23.144 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:23:25.384 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:23:59.631 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:25:44.009 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:25:55.846 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:26:21.599 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:26:21.599 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:27:12.629 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:28:05.629 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:28:21.582 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:28:21.583 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:28:44.227 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:29:46.795 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:30:00.451 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:30:17.308 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:30:20.688 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:30:20.689 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:31:14.481 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:32:21.594 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:32:21.595 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:36:52.656 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:37:30.252 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:37:30.253 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:38:16.677 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:38:40.332 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:39:31.683 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:39:31.684 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:39:39.195 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:41:31.520 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:41:31.521 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[W 05:43:51.390 NotebookApp] WebSocket ping timeout after 119316 ms.
+[I 05:44:38.911 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 05:44:54.549 NotebookApp] Kernel interrupted: 4bd90f55-4f03-4b22-874b-f9411d19a036
+[I 05:44:57.261 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 4bd90f55-4f03-4b22-874b-f9411d19a036 restarted
+[W 05:45:21.616 NotebookApp] Notebook FullyConnectedNets.ipynb is not trusted
+[I 05:47:25.392 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:47:25.393 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[W 05:50:28.241 NotebookApp] WebSocket ping timeout after 119328 ms.
+[I 05:59:35.358 NotebookApp] Kernel interrupted: 4bd90f55-4f03-4b22-874b-f9411d19a036
+[I 05:59:36.115 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 05:59:36.116 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 05:59:36.267 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 4bd90f55-4f03-4b22-874b-f9411d19a036 restarted
+[I 06:01:35.431 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 06:01:35.432 NotebookApp] Saving untrusted notebook FullyConnectedNets.ipynb
+[I 06:03:35.393 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 06:05:22.322 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:05:25.697 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:05:34.787 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 06:07:55.030 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:07:59.625 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:08:09.462 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:08:59.084 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:09:42.010 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:10:04.430 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:10:12.728 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:10:20.729 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:10:33.935 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:10:41.345 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:10:48.292 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:12:19.827 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:12:34.722 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:13:02.879 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:13:35.505 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 06:13:48.775 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:13:58.903 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:14:00.486 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:15:35.625 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 06:16:15.313 NotebookApp] Saving file at /cs231n/layers.py
+[I 06:17:35.516 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 06:21:38.682 NotebookApp] Saving file at /cs231n/layers.py
+[I 06:22:41.785 NotebookApp] Saving file at /cs231n/layers.py
+[I 06:23:35.417 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 06:24:24.931 NotebookApp] Saving file at /cs231n/layers.py
+[I 06:24:54.279 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 06:25:38.007 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 06:30:37.032 NotebookApp] Saving file at /cs231n/optim.py
+[I 06:31:32.925 NotebookApp] Saving file at /cs231n/optim.py
+[I 06:31:39.163 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 06:33:35.548 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 06:35:11.856 NotebookApp] Saving file at /cs231n/optim.py
+[I 06:35:15.999 NotebookApp] Saving file at /cs231n/optim.py
+[I 06:35:43.154 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 06:41:36.889 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 06:45:34.874 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 06:52:08.640 NotebookApp] Saving file at /cs231n/optim.py
+[I 06:52:19.126 NotebookApp] Saving file at /cs231n/optim.py
+[I 06:52:36.382 NotebookApp] Saving file at /cs231n/optim.py
+[I 06:53:40.606 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[I 07:11:27.040 NotebookApp] Saving file at /cs231n/optim.py
+[I 07:11:43.918 NotebookApp] Saving file at /cs231n/optim.py
+[I 07:12:04.600 NotebookApp] Saving file at /cs231n/optim.py
+[I 07:13:36.898 NotebookApp] Saving file at /FullyConnectedNets.ipynb
+[W 07:14:17.022 NotebookApp] Notebook BatchNormalization.ipynb is not trusted
+[I 07:14:18.958 NotebookApp] Kernel started: 4d6a94d1-e9cf-499d-a748-05f7c28b584f
+[I 07:16:19.707 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 07:18:20.356 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 07:23:45.705 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:24:51.574 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:26:19.823 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 07:28:00.698 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:28:19.728 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 07:30:19.830 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 07:30:35.979 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:32:09.064 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:32:19.765 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 07:33:36.310 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:34:19.715 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 07:36:19.862 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 07:36:42.495 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:37:11.235 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:37:22.306 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:40:10.658 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:40:26.481 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:41:26.606 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:44:19.839 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 07:46:40.440 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:47:26.831 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:47:48.994 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:48:00.936 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:48:19.937 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 08:09:22.171 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:23:37.551 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:24:20.525 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 08:25:02.515 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:26:22.908 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 08:36:42.346 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:38:20.164 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 08:40:20.023 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 08:40:33.375 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:40:49.276 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:42:19.956 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 09:00:22.718 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 09:03:14.184 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:04:32.808 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:04:40.270 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:15:46.558 NotebookApp] Saving file at /cs231n/layer_utils.py
+[I 09:15:59.120 NotebookApp] Saving file at /cs231n/layer_utils.py
+[I 09:16:02.692 NotebookApp] Saving file at /cs231n/layer_utils.py
+[I 09:17:12.224 NotebookApp] Saving file at /cs231n/layer_utils.py
+[I 09:20:03.548 NotebookApp] Saving file at /cs231n/layer_utils.py
+[I 09:22:16.461 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:22:48.163 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:24:19.995 NotebookApp] Saving file at /cs231n/layer_utils.py
+[I 09:24:21.107 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 09:24:27.599 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:25:33.833 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:26:20.080 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 09:26:22.096 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:26:27.409 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:26:37.077 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:27:22.768 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:27:29.716 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:27:52.592 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:28:20.156 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 09:29:59.064 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:32:09.942 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:32:19.165 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:32:27.551 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:32:38.307 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:33:04.826 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:33:23.667 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:33:44.519 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:34:21.351 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 09:35:41.534 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:36:09.644 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:36:20.683 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 09:36:26.051 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:36:42.121 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:37:19.773 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:37:33.326 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:38:20.663 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 09:39:26.478 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:40:49.654 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:41:08.606 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:41:56.650 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:42:22.392 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:42:23.051 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 09:43:44.844 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:44:20.041 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 09:44:30.242 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:44:49.494 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:45:09.186 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:45:32.303 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:46:20.094 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 09:48:20.706 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 09:49:59.078 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:50:27.228 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:50:36.511 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:50:53.432 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:50:58.817 NotebookApp] Saving file at /cs231n/layer_utils.py
+[I 09:51:56.688 NotebookApp] Saving file at /cs231n/layer_utils.py
+[I 09:52:14.799 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:52:20.067 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 09:56:21.996 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:56:48.257 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:57:25.560 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 09:58:20.748 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 10:00:20.760 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 10:02:20.746 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 10:03:46.804 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:04:17.935 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:04:20.734 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 10:05:00.677 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:06:21.043 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 10:07:53.713 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:08:09.129 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:08:20.726 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 10:08:23.086 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:08:46.194 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:09:06.552 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:09:55.401 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:10:11.322 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:11:23.846 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:12:20.765 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 10:12:43.194 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:13:11.545 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:14:01.541 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:14:20.803 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 10:14:25.444 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:14:32.756 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:15:20.948 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:15:31.709 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 10:16:20.175 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 10:20:20.177 NotebookApp] Saving file at /BatchNormalization.ipynb
+[I 12:18:22.666 NotebookApp] Saving file at /BatchNormalization.ipynb
+[W 12:50:50.852 NotebookApp] Notebook Dropout.ipynb is not trusted
+[I 12:50:51.987 NotebookApp] Kernel started: 921fa53b-6bc0-4cde-bcc9-916a1faf7c37
+[I 12:54:54.314 NotebookApp] Saving file at /Dropout.ipynb
+[I 13:03:58.073 NotebookApp] Saving file at /cs231n/layers.py
+[I 13:05:14.710 NotebookApp] Saving file at /cs231n/layers.py
+[I 13:06:35.299 NotebookApp] Saving file at /cs231n/layers.py
+[I 13:06:53.449 NotebookApp] Saving file at /Dropout.ipynb
+[I 13:07:54.158 NotebookApp] Saving file at /cs231n/layers.py
+[I 13:08:52.714 NotebookApp] Saving file at /Dropout.ipynb
+[W 13:33:23.717 NotebookApp] WebSocket ping timeout after 119190 ms.
+[I 14:03:38.930 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[C 14:04:08.688 NotebookApp] received signal 15, stopping
+[I 14:04:08.707 NotebookApp] Shutting down kernels
+[I 14:04:08.926 NotebookApp] Kernel shutdown: 921fa53b-6bc0-4cde-bcc9-916a1faf7c37
+[I 14:04:08.927 NotebookApp] Kernel shutdown: 4d6a94d1-e9cf-499d-a748-05f7c28b584f
+[I 14:04:08.928 NotebookApp] Kernel shutdown: 4bd90f55-4f03-4b22-874b-f9411d19a036
+[W 07:02:02.925 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 07:02:02.954 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 07:02:03.003 NotebookApp] Serving notebooks from local directory: /home/booneng/assignment2
+[I 07:02:03.003 NotebookApp] 0 active kernels 
+[I 07:02:03.003 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:7000/
+[I 07:02:03.003 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 07:02:32.915 NotebookApp] 302 GET / (103.27.162.209) 0.81ms
+[I 07:02:54.114 NotebookApp] Kernel started: 20e212f0-5371-4c73-990c-dfe8e5b98f5e
+[I 07:04:54.100 NotebookApp] Saving file at /Dropout.ipynb
+[I 07:06:36.636 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 07:06:38.520 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 07:08:07.702 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 07:08:38.854 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 07:08:40.426 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 07:08:55.277 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 07:09:31.245 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 07:10:15.790 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 07:10:24.858 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 07:10:53.255 NotebookApp] Saving file at /Dropout.ipynb
+[I 07:10:53.901 NotebookApp] Saving file at /cs231n/classifiers/fc_net.py
+[I 07:12:53.183 NotebookApp] Saving file at /Dropout.ipynb
+[W 07:17:56.205 NotebookApp] Notebook ConvolutionalNetworks.ipynb is not trusted
+[I 07:17:59.013 NotebookApp] Kernel started: 012f261d-c6f8-4112-9d0a-44033c11758e
+[I 07:20:00.703 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 07:27:14.140 NotebookApp] Saving file at /cs231n/layers.py
+[W 07:36:31.284 NotebookApp] WebSocket ping timeout after 119232 ms.
+[I 07:43:48.462 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:51:20.583 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:59:39.167 NotebookApp] Saving file at /cs231n/layers.py
+[I 07:59:41.587 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:00:51.791 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:01:07.747 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:01:35.523 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:02:09.130 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 08:02:11.909 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:03:05.547 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:03:52.249 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:04:08.282 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 08:04:54.340 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:05:01.537 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:05:40.588 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:06:04.807 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:06:08.234 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 08:06:57.648 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:07:04.398 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:08:08.992 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 08:09:21.190 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:10:09.091 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 08:12:04.551 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:12:07.732 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:14:17.567 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 08:15:41.937 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:16:08.580 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 08:22:20.790 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:29:29.376 NotebookApp] Saving file at /cs231n/layers.py
+[W 08:33:49.892 NotebookApp] WebSocket ping timeout after 118830 ms.
+[I 08:48:02.252 NotebookApp] Saving file at /cs231n/layers.py
+[I 08:48:53.116 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:11:01.555 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:11:34.660 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:12:13.776 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 09:16:26.646 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:17:22.891 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:18:06.055 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:18:14.067 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 09:18:17.895 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:19:00.767 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:19:33.460 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:20:12.158 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 09:20:14.773 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:20:28.992 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:20:43.344 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:20:44.530 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:21:08.627 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:21:25.417 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:22:15.677 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 09:22:41.686 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:23:48.415 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:24:11.170 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:24:13.079 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 09:24:20.877 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:24:33.111 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:25:05.011 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:25:06.190 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:26:11.701 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 09:39:20.923 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:40:01.196 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:40:40.029 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:41:12.494 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:42:11.687 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 09:42:48.900 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:43:17.543 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:43:48.814 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:44:11.811 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 09:44:24.853 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:45:28.934 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:45:42.061 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:45:49.113 NotebookApp] Saving file at /cs231n/layers.py
+[I 09:46:11.711 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 09:48:11.731 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 09:59:19.469 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:01:22.195 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:01:25.430 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:01:51.436 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:02:12.614 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 10:03:10.660 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:04:11.668 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 10:05:18.234 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:06:12.225 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 10:06:43.708 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:06:56.215 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:07:12.269 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:08:12.307 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 10:14:09.576 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:19:00.612 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:19:08.981 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:19:14.160 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:19:33.534 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:19:51.840 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:20:33.378 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 10:20:35.106 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:21:08.741 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:21:13.302 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:21:41.872 NotebookApp] Saving file at /cs231n/layers.py
+[I 10:22:33.218 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 10:24:34.654 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 10:26:33.213 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[W 10:31:11.278 NotebookApp] WebSocket ping timeout after 119230 ms.
+[I 10:41:36.126 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 10:43:53.948 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 10:45:55.483 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 10:47:35.821 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 10:49:28.109 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 10:54:19.286 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 10:54:24.234 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 10:54:48.877 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[W 11:00:53.395 NotebookApp] WebSocket ping timeout after 119239 ms.
+[I 12:10:37.263 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 12:13:32.063 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 12:14:29.079 NotebookApp] Kernel interrupted: 012f261d-c6f8-4112-9d0a-44033c11758e
+[I 12:14:32.015 NotebookApp] KernelRestarter: restarting kernel (1/5)
+[I 12:16:50.504 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 12:16:57.117 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 12:17:52.477 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 12:18:16.110 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 12:18:56.302 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 12:23:50.595 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 12:24:00.570 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 12:24:30.348 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 12:25:01.048 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 12:25:13.897 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 12:25:57.008 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 12:26:58.119 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[W 12:32:27.022 NotebookApp] WebSocket ping timeout after 119087 ms.
+[I 12:58:27.011 NotebookApp] Saving file at /cs231n/classifiers/cnn.py
+[I 12:58:55.534 NotebookApp] Kernel interrupted: 012f261d-c6f8-4112-9d0a-44033c11758e
+[I 12:58:56.026 NotebookApp] KernelRestarter: restarting kernel (1/5)
+[I 12:59:37.539 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 13:02:07.460 NotebookApp] Kernel restarted: 012f261d-c6f8-4112-9d0a-44033c11758e
+[I 13:03:37.312 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 13:05:37.581 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[W 13:10:09.764 NotebookApp] WebSocket ping timeout after 119161 ms.
+[C 15:28:19.938 NotebookApp] received signal 15, stopping
+[I 15:28:19.945 NotebookApp] Shutting down kernels
+[I 15:28:20.159 NotebookApp] Kernel shutdown: 20e212f0-5371-4c73-990c-dfe8e5b98f5e
+[I 15:28:20.160 NotebookApp] Kernel shutdown: 012f261d-c6f8-4112-9d0a-44033c11758e
+[W 03:01:01.976 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 03:01:01.990 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 03:01:02.030 NotebookApp] Serving notebooks from local directory: /home/booneng/assignment2
+[I 03:01:02.030 NotebookApp] 0 active kernels 
+[I 03:01:02.030 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:7000/
+[I 03:01:02.030 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 03:01:16.830 NotebookApp] 302 GET / (103.27.162.209) 0.69ms
+[I 03:02:19.358 NotebookApp] Kernel started: 6d70a51b-1059-4aba-bc5e-df1046d1587e
+[I 03:04:20.328 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 03:12:24.076 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 03:15:38.196 NotebookApp] Saving file at /cs231n/layers.py
+[I 03:16:20.377 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[I 03:21:34.688 NotebookApp] Saving file at /cs231n/layers.py
+[I 03:24:21.532 NotebookApp] Saving file at /cs231n/layers.py
+[W 03:27:52.164 NotebookApp] WebSocket ping timeout after 118984 ms.
+[I 03:32:51.735 NotebookApp] Saving file at /cs231n/layers.py
+[I 03:35:24.744 NotebookApp] Saving file at /ConvolutionalNetworks.ipynb
+[W 03:39:46.740 NotebookApp] Notebook TensorFlow.ipynb is not trusted
+[I 03:39:50.578 NotebookApp] Kernel started: f1b43c9e-f753-4551-b05f-b4634834c9cc
+[C 03:39:56.281 NotebookApp] received signal 15, stopping
+[I 03:39:56.282 NotebookApp] Shutting down kernels
+[I 03:39:56.483 NotebookApp] Kernel shutdown: 6d70a51b-1059-4aba-bc5e-df1046d1587e
+[I 03:39:56.483 NotebookApp] Kernel shutdown: f1b43c9e-f753-4551-b05f-b4634834c9cc

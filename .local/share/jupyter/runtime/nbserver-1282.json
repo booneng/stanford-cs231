@@ -1,0 +1,9 @@
+{
+  "hostname": "localhost",
+  "secure": false,
+  "pid": 1282,
+  "notebook_dir": "/home/booneng/assignment2",
+  "url": "http://localhost:7000/",
+  "base_url": "/",
+  "port": 7000
+}
