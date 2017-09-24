@@ -166,3 +166,42 @@ nohup jupyter-notebook --no-browser --port=7000
 cd assignment2
 source .env/bin/activate
 nohup jupyter-notebook --no-browser --port=7000
+ls
+github add -A
+git add -A
+git commit -m "changing timezone
+"
+git status
+git push
+cd assignments2
+cd assignment2
+ls
+source .env/bin/activate
+jupyter-notebook --no-browser --port=7000
+nohup jupyter-notebook --no-browser --port=7000
+cd assignment2
+source .en/bin/ac
+source .env/bin/ac
+source .env/bin/activate
+pip freeze
+pip install tensorflow
+ls
+cd assignment
+cd assignment2
+ls
+cd cs231n/
+cd data
+cd datasets/
+ls
+cat cifar-10-batches-py/
+cd cifar-10-batches-py/
+ls
+cat data_batch_1
+cd assignment2
+source .env/bin/activate
+ls
+jupyter-notebook --no-browser --port=7000
+cd assignment2/
+l
+source .env/bin/activate
+nohup jupyter-notebook --no-browser --port=7000

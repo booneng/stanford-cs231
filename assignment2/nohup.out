@@ -514,3 +514,86 @@ WARNING:root:kernel 4bd90f55-4f03-4b22-874b-f9411d19a036 restarted
 [I 03:39:56.282 NotebookApp] Shutting down kernels
 [I 03:39:56.483 NotebookApp] Kernel shutdown: 6d70a51b-1059-4aba-bc5e-df1046d1587e
 [I 03:39:56.483 NotebookApp] Kernel shutdown: f1b43c9e-f753-4551-b05f-b4634834c9cc
+[W 03:52:11.349 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 03:52:11.349 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 03:52:11.415 NotebookApp] Serving notebooks from local directory: /home/booneng/assignment2
+[I 03:52:11.415 NotebookApp] 0 active kernels 
+[I 03:52:11.415 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:7000/
+[I 03:52:11.415 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 03:56:12.988 NotebookApp] 302 GET / (103.27.162.209) 0.90ms
+[W 03:56:24.332 NotebookApp] Notebook TensorFlow.ipynb is not trusted
+[I 03:56:29.026 NotebookApp] Kernel started: 4f3052d1-368b-4741-b7f4-059460f16249
+[I 04:08:29.466 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:12:28.534 NotebookApp] Saving file at /TensorFlow.ipynb
+2017-09-19 04:14:20.580816: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 04:14:20.580868: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 04:14:20.580874: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 04:14:20.580878: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 04:14:20.580883: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 04:14:27.592 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:16:27.934 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:26:31.761 NotebookApp] Saving file at /TensorFlow.ipynb
+[W 04:56:04.094 NotebookApp] WebSocket ping timeout after 118997 ms.
+[C 06:40:13.618 NotebookApp] received signal 15, stopping
+[I 06:40:13.619 NotebookApp] Shutting down kernels
+[I 06:40:13.720 NotebookApp] Kernel shutdown: 4f3052d1-368b-4741-b7f4-059460f16249
+[W 02:26:51.413 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 02:26:51.437 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 02:26:51.461 NotebookApp] Serving notebooks from local directory: /home/booneng/assignment2
+[I 02:26:51.462 NotebookApp] 0 active kernels 
+[I 02:26:51.462 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:7000/
+[I 02:26:51.462 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 02:26:54.673 NotebookApp] 302 GET / (60.51.119.121) 0.79ms
+[I 02:27:01.310 NotebookApp] Kernel started: 56ac91bc-cdc3-4322-8da6-b78f9075fc51
+[I 02:29:01.171 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 02:31:01.154 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 02:49:06.832 NotebookApp] Saving file at /TensorFlow.ipynb
+2017-09-24 02:49:41.603200: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-24 02:49:41.603248: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-24 02:49:41.603254: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-24 02:49:41.603273: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-24 02:49:41.603277: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 02:51:01.178 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 02:53:01.116 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 03:27:01.199 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 03:27:27.211 NotebookApp] Kernel started: 675b622b-4946-4f38-a419-fc6063f6da13
+[I 03:27:32.938 NotebookApp] Kernel started: 3751c374-3066-4d42-bd27-59ca5f239a3c
+[I 03:28:34.693 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 03:28:51.194 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 03:29:01.151 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 03:29:38.170 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 03:45:01.238 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 03:49:01.310 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:00:30.533 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:01:01.178 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:01:48.979 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:03:01.160 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:03:01.606 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:22:45.773 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:23:01.183 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:23:01.483 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:27:01.289 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:27:33.910 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:33:01.478 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:35:57.519 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:36:34.095 NotebookApp] Kernel interrupted: 56ac91bc-cdc3-4322-8da6-b78f9075fc51
+[I 04:37:01.236 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:39:01.296 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:57:01.369 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 04:59:01.212 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 05:01:01.313 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 05:05:01.227 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 05:09:01.310 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 05:13:01.310 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 05:17:01.575 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 05:30:35.916 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 05:31:01.235 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 05:31:29.055 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 05:33:01.327 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 05:34:41.175 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 05:36:37.240 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 05:37:01.234 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 06:25:01.561 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 06:33:01.351 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 06:37:01.415 NotebookApp] Saving file at /TensorFlow.ipynb
+[I 06:43:01.369 NotebookApp] Saving file at /TensorFlow.ipynb
